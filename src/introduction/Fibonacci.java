@@ -1,9 +1,5 @@
 package introduction;
 
-import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.List;
-
 //This is the implementation of the code from practice section
 //Can compute big numbers like 100000 bc computes values smallest to biggest
 //Doesn't use cash, only stores last two useful Fs
